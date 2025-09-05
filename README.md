@@ -1,2 +1,2 @@
-<p>Expense Tracker</p>
+Expense Tracker
 Tech Stack: HTML, CSS, JavaScript
